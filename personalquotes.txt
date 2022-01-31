@@ -1,6 +1,3 @@
 Strength
-<<<<<<< HEAD
 New Change:
-=======
 I like blue:
->>>>>>> personal_quotes
